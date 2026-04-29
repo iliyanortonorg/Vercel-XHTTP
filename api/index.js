@@ -1,10 +1,10 @@
-import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
+import { Readable } from "node:stream";
 
 export const config = {
   api: { bodyParser: false },
   supportsResponseStreaming: true,
-  maxDuration: 60,
+  maxDuration: 58,
 };
 
 const TARGET_BASE = (process.env.TARGET_DOMAIN || "").replace(/\/$/, "");
@@ -13,16 +13,16 @@ const STRIP_HEADERS = new Set([
   "host",
   "connection",
   "keep-alive",
+  "forwarded",
   "proxy-authenticate",
   "proxy-authorization",
   "te",
   "trailer",
   "transfer-encoding",
   "upgrade",
-  "forwarded",
+  "x-forwarded-port",
   "x-forwarded-host",
   "x-forwarded-proto",
-  "x-forwarded-port",
 ]);
 
 export default async function handler(req, res) {
