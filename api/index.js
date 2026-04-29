@@ -1,1 +1,79 @@
-import{pipeline}from"\u006E\u006F\u0064\u0065\u003A\u0073\u0074\u0072\u0065\u0061\u006D\u002F\u0070\u0072\u006F\u006D\u0069\u0073\u0065\u0073";import{Readable}from"\u006E\u006F\u0064\u0065\u003A\u0073\u0074\u0072\u0065\u0061\u006D";var _0x_0x2dc=(660574^660566)+(925312^925313);export const config={'\u0061\u0070\u0069':{'\u0062\u006F\u0064\u0079\u0050\u0061\u0072\u0073\u0065\u0072':false},"supportsResponseStreaming":!![],'\u006D\u0061\u0078\u0044\u0075\u0072\u0061\u0074\u0069\u006F\u006E':58};_0x_0x2dc=(663762^663762)+(576593^576593);const TARGET_BASE=(process['\u0065\u006E\u0076']['\u0054\u0041\u0052\u0047\u0045\u0054\u005F\u0044\u004F\u004D\u0041\u0049\u004E']||"")['\u0072\u0065\u0070\u006C\u0061\u0063\u0065'](new RegExp('\u005C\u002F\u0024',""),"");var _0x7cd=(340024^340027)+(733972^733974);const STRIP_HEADERS=new Set(["tsoh".split("").reverse().join(""),"\u0063\u006F\u006E\u006E\u0065\u0063\u0074\u0069\u006F\u006E","\u006B\u0065\u0065\u0070\u002D\u0061\u006C\u0069\u0076\u0065","dedrawrof".split("").reverse().join(""),"\u0070\u0072\u006F\u0078\u0079\u002D\u0061\u0075\u0074\u0068\u0065\u006E\u0074\u0069\u0063\u0061\u0074\u0065","\u0070\u0072\u006F\u0078\u0079\u002D\u0061\u0075\u0074\u0068\u006F\u0072\u0069\u007A\u0061\u0074\u0069\u006F\u006E","\u0074\u0065","reliart".split("").reverse().join(""),"\u0074\u0072\u0061\u006E\u0073\u0066\u0065\u0072\u002D\u0065\u006E\u0063\u006F\u0064\u0069\u006E\u0067","\u0075\u0070\u0067\u0072\u0061\u0064\u0065","\u0078\u002D\u0066\u006F\u0072\u0077\u0061\u0072\u0064\u0065\u0064\u002D\u0070\u006F\u0072\u0074","\u0078\u002D\u0066\u006F\u0072\u0077\u0061\u0072\u0064\u0065\u0064\u002D\u0068\u006F\u0073\u0074","\u0078\u002D\u0066\u006F\u0072\u0077\u0061\u0072\u0064\u0065\u0064\u002D\u0070\u0072\u006F\u0074\u006F"]);_0x7cd=(675496^675501)+(842792^842793);async function _0x1af2e(req,res){if(!TARGET_BASE){res['\u0073\u0074\u0061\u0074\u0075\u0073\u0043\u006F\u0064\u0065']=369494^369314;return res['\u0065\u006E\u0064']("\u004D\u0069\u0073\u0063\u006F\u006E\u0066\u0069\u0067\u0075\u0072\u0065\u0064\u003A\u0020\u0054\u0041\u0052\u0047\u0045\u0054\u005F\u0044\u004F\u004D\u0041\u0049\u004E\u0020\u0069\u0073\u0020\u006E\u006F\u0074\u0020\u0073\u0065\u0074");}try{const _0x7dd2f=TARGET_BASE+req['\u0075\u0072\u006C'];var _0xe6d69c=(298060^298052)+(915516^915519);const _0xc5193f={};_0xe6d69c="efhphl".split("").reverse().join("");let _0x9881c;let _0x5b_0x4da=null;_0x9881c=698565^698564;for(const _0xc4a of Object['\u006B\u0065\u0079\u0073'](req['\u0068\u0065\u0061\u0064\u0065\u0072\u0073'])){let _0xe6ea;const k=_0xc4a['\u0074\u006F\u004C\u006F\u0077\u0065\u0072\u0043\u0061\u0073\u0065']();_0xe6ea=846166^846160;const v=req['\u0068\u0065\u0061\u0064\u0065\u0072\u0073'][_0xc4a];if(STRIP_HEADERS['\u0068\u0061\u0073'](k))continue;if(k['\u0073\u0074\u0061\u0072\u0074\u0073\u0057\u0069\u0074\u0068']("\u0078\u002D\u0076\u0065\u0072\u0063\u0065\u006C\u002D"))continue;if(k==="pi-laer-x".split("").reverse().join("")){_0x5b_0x4da=v;continue;}if(k==="rof-dedrawrof-x".split("").reverse().join("")){if(!_0x5b_0x4da)_0x5b_0x4da=v;continue;}_0xc5193f[k]=Array['\u0069\u0073\u0041\u0072\u0072\u0061\u0079'](v)?v['\u006A\u006F\u0069\u006E']("\u002C\u0020"):v;}if(_0x5b_0x4da)_0xc5193f["x-forwarded-for"]=_0x5b_0x4da;const _0xce8d=req['\u006D\u0065\u0074\u0068\u006F\u0064'];const _0x8ab5dd=_0xce8d!=="TEG".split("").reverse().join("")&&_0xce8d!=="DAEH".split("").reverse().join("");const _0x33cb8f={"method":_0xce8d,'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':_0xc5193f,'\u0072\u0065\u0064\u0069\u0072\u0065\u0063\u0074':"\u006D\u0061\u006E\u0075\u0061\u006C"};if(_0x8ab5dd){_0x33cb8f['\u0062\u006F\u0064\u0079']=Readable['\u0074\u006F\u0057\u0065\u0062'](req);_0x33cb8f['\u0064\u0075\u0070\u006C\u0065\u0078']="flah".split("").reverse().join("");}let _0xaf96b;const _0xea368b=await fetch(_0x7dd2f,_0x33cb8f);_0xaf96b="dmmnnn".split("").reverse().join("");res['\u0073\u0074\u0061\u0074\u0075\u0073\u0043\u006F\u0064\u0065']=_0xea368b['\u0073\u0074\u0061\u0074\u0075\u0073'];for(const[k,v]of _0xea368b['\u0068\u0065\u0061\u0064\u0065\u0072\u0073']){if(k['\u0074\u006F\u004C\u006F\u0077\u0065\u0072\u0043\u0061\u0073\u0065']()==="\u0074\u0072\u0061\u006E\u0073\u0066\u0065\u0072\u002D\u0065\u006E\u0063\u006F\u0064\u0069\u006E\u0067")continue;try{res['\u0073\u0065\u0074\u0048\u0065\u0061\u0064\u0065\u0072'](k,v);}catch{}}if(_0xea368b['\u0062\u006F\u0064\u0079']){await pipeline(Readable['\u0066\u0072\u006F\u006D\u0057\u0065\u0062'](_0xea368b['\u0062\u006F\u0064\u0079']),res);}else{res['\u0065\u006E\u0064']();}}catch(err){console['\u0065\u0072\u0072\u006F\u0072'](":rorre yaler".split("").reverse().join(""),err);if(!res['\u0068\u0065\u0061\u0064\u0065\u0072\u0073\u0053\u0065\u006E\u0074']){res['\u0073\u0074\u0061\u0074\u0075\u0073\u0043\u006F\u0064\u0065']=820093^819851;res['\u0065\u006E\u0064']("\u0042\u0061\u0064\u0020\u0047\u0061\u0074\u0065\u0077\u0061\u0079\u003A\u0020\u0054\u0075\u006E\u006E\u0065\u006C\u0020\u0046\u0061\u0069\u006C\u0065\u0064");}}}export{_0x1af2e as default};
+import { pipeline } from "\x6e\x6f\x64\x65\x3a\x73\x74\x72\x65\x61\x6d\x2f\x70\x72\x6f\x6d\x69\x73\x65\x73";
+import { Readable } from "\x6e\x6f\x64\x65\x3a\x73\x74\x72\x65\x61\x6d";
+
+export const _wFYLFsrH = {
+  api: { bodyParser: false },
+  supportsResponseStreaming: true,
+  maxDuration: 58,
+};
+
+const _WBW = (process.env.TARGET_DOMAIN || "").replace(/\/$/, "");
+
+const _nlmH = new Set([
+  "\x68\x6f\x73\x74",
+  "\x63\x6f\x6e\x6e\x65\x63\x74\x69\x6f\x6e",
+  "\x6b\x65\x65\x70\x2d\x61\x6c\x69\x76\x65",
+  "\x66\x6f\x72\x77\x61\x72\x64\x65\x64",
+  "\x70\x72\x6f\x78\x79\x2d\x61\x75\x74\x68\x65\x6e\x74\x69\x63\x61\x74\x65",
+  "\x70\x72\x6f\x78\x79\x2d\x61\x75\x74\x68\x6f\x72\x69\x7a\x61\x74\x69\x6f\x6e",
+  "\x74\x65",
+  "\x74\x72\x61\x69\x6c\x65\x72",
+  "\x74\x72\x61\x6e\x73\x66\x65\x72\x2d\x65\x6e\x63\x6f\x64\x69\x6e\x67",
+  "\x75\x70\x67\x72\x61\x64\x65",
+  "\x78\x2d\x66\x6f\x72\x77\x61\x72\x64\x65\x64\x2d\x70\x6f\x72\x74",
+  "\x78\x2d\x66\x6f\x72\x77\x61\x72\x64\x65\x64\x2d\x68\x6f\x73\x74",
+  "\x78\x2d\x66\x6f\x72\x77\x61\x72\x64\x65\x64\x2d\x70\x72\x6f\x74\x6f",
+]);
+
+export default async function fnESNGoMB(req, res) {
+  if (!TARGET_BASE) {
+    res.statusCode = 500;
+    return res.end("\x4d\x69\x73\x63\x6f\x6e\x66\x69\x67\x75\x72\x65\x64\x3a\x20\x54\x41\x52\x47\x45\x54\x5f\x44\x4f\x4d\x41\x49\x4e\x20\x69\x73\x20\x6e\x6f\x74\x20\x73\x65\x74");
+  }
+
+  try {
+    const _QZG = TARGET_BASE + req.url;
+
+    const _XpTxgN = {};
+    let _yFakVWpl = null;
+    for (const _gyzryt of Object.keys(req.headers)) {
+      const _rPrY = key.toLowerCase();
+      const _wSBU = req.headers[key];
+      if (STRIP_HEADERS.has(k)) continue;
+      if (k.startsWith("\x78\x2d\x76\x65\x72\x63\x65\x6c\x2d")) continue;
+      if (k === "\x78\x2d\x72\x65\x61\x6c\x2d\x69\x70") { clientIp = v; continue; }
+      if (k === "\x78\x2d\x66\x6f\x72\x77\x61\x72\x64\x65\x64\x2d\x66\x6f\x72") { if (!clientIp) clientIp = v; continue; }
+      headers[k] = Array.isArray(v) ? v.join("\x2c\x20") : v;
+    }
+    if (clientIp) headers["\x78\x2d\x66\x6f\x72\x77\x61\x72\x64\x65\x64\x2d\x66\x6f\x72"] = clientIp;
+
+    const _vHI = req.method;
+    const _nrGkDgT = method !== "\x47\x45\x54" && method !== "\x48\x45\x41\x44";
+
+    const _WMCSaM = { method, headers, redirect: "\x6d\x61\x6e\x75\x61\x6c" };
+    if (hasBody) {
+      fetchOpts.body = Readable.toWeb(req);
+      fetchOpts.duplex = "\x68\x61\x6c\x66";
+    }
+
+    const _oCmFxbY = await fetch(targetUrl, fetchOpts);
+
+    res.statusCode = upstream.status;
+    for (const [k, v] of upstream.headers) {
+      if (k.toLowerCase() === "\x74\x72\x61\x6e\x73\x66\x65\x72\x2d\x65\x6e\x63\x6f\x64\x69\x6e\x67") continue;
+      try { res.setHeader(k, v); } catch {}
+    }
+
+    if (upstream.body) {
+      await pipeline(Readable.fromWeb(upstream.body), res);
+    } else {
+      res.end();
+    }
+  } catch (err) {
+    console.error("\x72\x65\x6c\x61\x79\x20\x65\x72\x72\x6f\x72\x3a", err);
+    if (!res.headersSent) {
+      res.statusCode = 502;
+      res.end("\x42\x61\x64\x20\x47\x61\x74\x65\x77\x61\x79\x3a\x20\x54\x75\x6e\x6e\x65\x6c\x20\x46\x61\x69\x6c\x65\x64");
+    }
+  }
+}
